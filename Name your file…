@@ -1,0 +1,3 @@
+Hi David,
+
+It would be great if you could create a function that graphs the contents of an array that is provided into the function parameters. I am currently working on the code for predicting the data, and a GUI would be great. It would be great if the graph could link the individual points like a line graph and have several of those line graphs distinquished by color on the same screen. Maybe the function could have parameters for graph name and color also to help distinguish between lines. I would need several graphs on the same screen because I want to make a maximum and minimum boundary and also test two separate algorithms.
